@@ -1,6 +1,6 @@
-# Collect4 game
+# Connect4 game
 
-A simple CLI game of collect 4
+A simple CLI game of connect 4
 
 ## Quick start
 
