@@ -16,6 +16,13 @@ A simple CLI game of collect 4
    make run
    ```
 
+   or with python directly (activate your virtual environment first)
+
+   ```bash
+    pip install -r requirements.txt
+    python main.py
+   ```
+
 ## Command-line arguments
 
 You can override the default game settings using the following command-line arguments:
